@@ -1,0 +1,8 @@
+def parzysta(liczba):
+    if liczba%2==0:
+        return "Prawda"
+    else:
+        return "Fałsz"
+
+
+print(parzysta(5))
