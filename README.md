@@ -1,0 +1,2 @@
+# zadanko
+zadanka z prezemtacji
